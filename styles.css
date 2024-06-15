@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(213, 213, 247);
+  font-family: "Lato", sans-serif;
+  color: midnightblue;
+}
+
+header {
+  background-color: rgb(190, 203, 203);
+  text-align: center;
+}
+
+h1, h2, h3 {
+  color: gray;
+}
+
+p {
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  padding-right: 12px;
+}
+
+img {
+  width: 300px;
+  border-radius: 16px;
+  
+}
+
+footer {
+  background-color: rgb(197, 227, 217);
+  border-radius: 50px;
+}
+/*div {
+  text-align: center;
+}*/
